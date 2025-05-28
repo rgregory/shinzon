@@ -4,9 +4,6 @@
 apps=(
   alfred
   hiddenbar
-  cleanmymac
-  brave-browser
-  spotify
   iterm2
   sublime-text2
   microsoft-edge
