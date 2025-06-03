@@ -156,6 +156,6 @@ defaults write com.apple.commerce AutoUpdate -bool true
 defaults write com.apple.commerce AutoUpdateRestartRequired -bool true
 
 # Login Message
-sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Veritas futilis est"
+#sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Veritas futilis est"
 #sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Malorum Præmeditatio"
 
