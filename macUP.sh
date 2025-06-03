@@ -5,7 +5,7 @@ apps=(
   alfred
   hiddenbar
   iterm2
-  sublime-text2
+  sublime-text
   microsoft-edge
   microsoft-excel
   microsoft-onenote
@@ -13,7 +13,6 @@ apps=(
   microsoft-powerpoint
   microsoft-teams
   microsoft-word
-  fish
 )
 
 ## Let's brew
